@@ -1,4 +1,4 @@
-#Simple, remove the spaces from the string, then return the resultant string.
+#Simple, remove the spaces from the string, then return the resultant string without using methods.
 
 def no_space(x):
     new_string = ""
