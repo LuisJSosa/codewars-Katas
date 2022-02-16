@@ -2,7 +2,7 @@
 
 This is the place where I upload coding challenges I've solved on Codewars.                                           
 
-**Here's a link to my Codewar profile:** https://www.codewars.com/users/luis.sosa
+**Here's a link to my Codewars profile:** https://www.codewars.com/users/luis.sosa
      
 ![ninja-gif](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
  
