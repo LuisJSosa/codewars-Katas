@@ -14,4 +14,4 @@ Upload new .py files with my own solutions
 
 ## Lessons Learned:
 
-Codewars provides a nice refresher for Python and problem-solving skills.
+Codewars provides a nice refresher for Python and problem-solving skills. More importantly, it's good for github practice.
